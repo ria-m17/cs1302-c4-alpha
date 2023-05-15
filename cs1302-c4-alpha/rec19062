@@ -1,0 +1,72 @@
+cs1302-c4-alpha:
+total 44
+drwxr-xr-x. 3 myid    28 Feb  2 19:40 bin
+drwxr-xr-x. 2 myid  4096 Jan 25 14:30 img
+drwxr-xr-x. 2 myid    41 Jan 25 14:30 lib
+-rw-r--r--. 1 myid  4116 Jan 25 14:30 LICENSE.rst
+-rw-r--r--. 1 myid 32420 Jan 25 14:30 README.rst
+-rw-r--r--. 1 myid     0 Feb  6 19:16 rec19062
+drwxr-xr-x. 2 myid    84 Jan 25 14:30 resources
+drwxr-xr-x. 3 myid    28 Jan 25 14:30 src
+
+cs1302-c4-alpha/bin:
+total 0
+drwxr-xr-x. 3 myid 26 Feb  2 19:40 cs1302
+
+cs1302-c4-alpha/bin/cs1302:
+total 0
+drwxr-xr-x. 2 myid 106 Feb  6 17:55 game
+
+cs1302-c4-alpha/bin/cs1302/game:
+total 24
+-rw-r--r--. 1 myid  4030 Feb  6 19:14 ConnectFour.class
+-rw-r--r--. 1 myid  4451 Feb  6 19:14 ConnectFourCLI.class
+-rw-r--r--. 1 myid 11685 Feb  6 19:14 ConnectFourTester.class
+
+cs1302-c4-alpha/img:
+total 1776
+-rw-r--r--. 1 myid  24222 Jan 25 14:30 GamePhase.NEW.png
+-rw-r--r--. 1 myid 173158 Jan 25 14:30 GamePhase.NEW.svg
+-rw-r--r--. 1 myid  26305 Jan 25 14:30 GamePhase.OVER.POST.png
+-rw-r--r--. 1 myid 185589 Jan 25 14:30 GamePhase.OVER.POST.svg
+-rw-r--r--. 1 myid  27347 Jan 25 14:30 GamePhase.OVER.PRE-1.png
+-rw-r--r--. 1 myid  11223 Jan 25 14:30 GamePhase.OVER.PRE.png
+-rw-r--r--. 1 myid 182312 Jan 25 14:30 GamePhase.OVER.PRE.svg
+-rw-r--r--. 1 myid  25486 Jan 25 14:30 GamePhase.PLAYABLE.1.png
+-rw-r--r--. 1 myid 178908 Jan 25 14:30 GamePhase.PLAYABLE.1.svg
+-rw-r--r--. 1 myid  26059 Jan 25 14:30 GamePhase.PLAYABLE.2.png
+-rw-r--r--. 1 myid 179204 Jan 25 14:30 GamePhase.PLAYABLE.2.svg
+-rw-r--r--. 1 myid  26396 Jan 25 14:30 GamePhase.PLAYABLE.3.png
+-rw-r--r--. 1 myid 179548 Jan 25 14:30 GamePhase.PLAYABLE.3.svg
+-rw-r--r--. 1 myid  26469 Jan 25 14:30 GamePhase.PLAYABLE.4.png
+-rw-r--r--. 1 myid 180680 Jan 25 14:30 GamePhase.PLAYABLE.4.svg
+-rw-r--r--. 1 myid  24940 Jan 25 14:30 GamePhase.READY.png
+-rw-r--r--. 1 myid 176541 Jan 25 14:30 GamePhase.READY.svg
+-rw-r--r--. 1 myid 113220 Jan 25 14:30 phases.png
+-rw-r--r--. 1 myid   9953 Jan 25 14:30 phases.svg
+
+cs1302-c4-alpha/lib:
+total 8
+-rw-r--r--. 1 myid 5088 Jan 25 14:30 cs1302-gameutil.jar
+
+cs1302-c4-alpha/resources:
+total 12
+-rw-r--r--. 1 myid 320 Jan 25 14:30 connectfour.txt
+-rw-r--r--. 1 myid 345 Jan 25 14:30 gameover.txt
+-rw-r--r--. 1 myid 311 Jan 25 14:30 welcome.txt
+
+cs1302-c4-alpha/src:
+total 0
+drwxr-xr-x. 3 myid 26 Jan 25 14:30 cs1302
+
+cs1302-c4-alpha/src/cs1302:
+total 0
+drwxr-xr-x. 2 myid 137 Feb  6 19:10 game
+
+cs1302-c4-alpha/src/cs1302/game:
+total 64
+-rw-r--r--. 1 myid  5881 Jan 25 14:30 ConnectFourCLI.java
+-rw-r--r--. 1 myid  3543 Feb  6 09:35 ConnectFourDriver.java
+-rw-r--r--. 1 myid 17111 Feb  6 19:10 ConnectFour.java
+-rw-r--r--. 1 myid 29749 Jan 25 14:30 ConnectFourTester.java
+/home/myid/rjm20320/cs1302-projects/cs1302-c4-alpha:/home/myid/csci-1302
